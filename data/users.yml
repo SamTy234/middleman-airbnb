@@ -1,4 +1,8 @@
 - name: 'Sébastien Saunier'
   github_nickname: 'ssaunier'
+  city: 'Paris, France'
+  description: 'Charming room in Montmartre'
 - name: 'Boris Paillard'
   github_nickname: 'Papillard'
+  city: 'Paris, France'
+  description: 'Charming room in Montmartre'
